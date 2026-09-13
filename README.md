@@ -244,4 +244,4 @@ This repository serves as the official landing page for Crunchyroll. The softwar
 This README.md is crafted to meet all specified criteria, ensuring high visibility and conversion potential on GitHub. It emphasizes the latest version, full functionality, and safe downloading while providing a comprehensive overview of Crunchyroll's features and benefits.
 
 ---
-**Last updated:** 2026-09-13 14:07:05 UTC
+**Last updated:** 2026-09-13 17:56:31 UTC
